@@ -1,2 +1,2 @@
-# is-invalid-path-with-extension
-Returns true if a file path has invalid characters or file extension does not match.
+# is-valid-path-with-extension
+Returns true if a file path has valid characters and file extension matches.
