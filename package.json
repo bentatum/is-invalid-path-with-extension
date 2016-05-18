@@ -1,8 +1,8 @@
 {
   "name": "is-valid-path-with-extension",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Returns true if a file path has valid characters and file extension matches.",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "dependencies": {
     "is-valid-path": "^0.1.1"
   },
