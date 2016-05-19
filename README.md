@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/is-valid-path-with-extension.svg)](https://badge.fury.io/js/is-valid-path-with-extension)
+
 # is-valid-path-with-extension
 Returns true if a file path has valid characters and file extension matches.
 
