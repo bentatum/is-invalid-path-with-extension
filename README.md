@@ -10,5 +10,6 @@ import { default as isValid } from 'is-valid-path-with-extension'
 
 isValid('img.jpg', /\.jpg/) // true
 isValid('img.jpg', /\.png/) // null
-isValid('img.jpg', /\.jpg|\.jpeg|\.png|\.svg/) // null
+isValid('img.jpg', /\.jpg|\.jpeg|\.png|\.svg/) // true
+isValid('img.jp', /\.jpg|\.jpeg|\.png|\.svg/) // null
 ```
